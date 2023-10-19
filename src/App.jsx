@@ -17,7 +17,7 @@ function App() {
   }, []);
 
   return (
-    <div className="min-h-screen w-full relative bg-general text-white font-spaceGrotesk">
+    <div className="min-h-screen w-full overflow-x-hidden relative bg-general text-white font-spaceGrotesk">
       <Header />
       <Hero />
       <About />
