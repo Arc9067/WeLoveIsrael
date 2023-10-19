@@ -4,9 +4,9 @@ import Hero from "./Components/Hero";
 import About from "./Components/About";
 import Help from "./Components/Help";
 import Mics from "./Components/Mics";
-import Footer from "./Components/Footer";
 import "aos/dist/aos.css";
 import AOS from "aos";
+import Footer from "./Components/Footer";
 
 function App() {
   useEffect(() => {
