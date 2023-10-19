@@ -4,7 +4,7 @@ import Hero from "./Components/Hero";
 import About from "./Components/About";
 import Help from "./Components/Help";
 import Mics from "./Components/Mics";
-import Footer from "./Components/footer";
+import Footer from "./Components/Footer";
 import "aos/dist/aos.css";
 import AOS from "aos";
 
