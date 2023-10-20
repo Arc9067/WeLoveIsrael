@@ -11,13 +11,12 @@ import Footer from "./Components/Footer";
 function App() {
   useEffect(() => {
     AOS.init({
-      duration: 1000, // Animation duration in milliseconds
       easing: "ease-in-out", // Easing function for the animation
     });
   }, []);
 
   return (
-    <div className="min-h-screen w-full overflow-x-hidden relative bg-general text-white font-spaceGrotesk">
+    <div className="min-h-screen w-full  relative bg-general text-white font-spaceGrotesk">
       <Header />
       <Hero />
       <About />

@@ -30,7 +30,7 @@ function Mics() {
             <img src={star} alt="" />
             <div className="flex w-full justify-between items-center">
               <h1 className="text-center text-white text-5xl font-normal font-GulfsDisplay leading-10">
-                3%
+                2%
               </h1>
               <p className="text-center text-white text-2xl font-normal font-GulfsDisplay">
                 BUY/SELL/TAX
@@ -45,7 +45,7 @@ function Mics() {
             <img src={coin} alt="" />
             <div className="flex w-full justify-between items-center">
               <h1 className="text-center text-white text-5xl font-normal font-GulfsDisplay leading-10">
-                3%
+                2%
               </h1>
               <p className="text-center text-white text-2xl font-normal font-GulfsDisplay">
                 BUY/SELL/TAX
@@ -60,7 +60,7 @@ function Mics() {
             <img src={money} alt="" />
             <div className="flex w-full justify-between items-center">
               <h1 className="text-center text-white text-5xl font-normal font-GulfsDisplay leading-10">
-                3%
+                2%
               </h1>
               <p className="text-center text-white text-2xl font-normal font-GulfsDisplay">
                 BUY/SELL/TAX
