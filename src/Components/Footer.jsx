@@ -25,7 +25,11 @@ function Footer() {
           </h1>
 
           <div className="flex items-center gap-2">
-            <a href="" data-aos-duration="400">
+            <a
+              href="https://twitter.com/WLIToken"
+              target="_blank"
+              data-aos-duration="400"
+            >
               <svg
                 width="39"
                 height="38"
@@ -48,7 +52,11 @@ function Footer() {
                 />
               </svg>
             </a>{" "}
-            <a href="" data-aos-duration="500">
+            <a
+              href="https://t.me/WLIsraelPortal"
+              target="_blank"
+              data-aos-duration="500"
+            >
               <svg
                 width="39"
                 height="38"
