@@ -25,7 +25,7 @@ function Footer() {
           </h1>
 
           <div className="flex items-center gap-2">
-            <a href="" data-aos="fade-up" data-aos-duration="400">
+            <a href="" data-aos-duration="400">
               <svg
                 width="39"
                 height="38"
@@ -48,7 +48,7 @@ function Footer() {
                 />
               </svg>
             </a>{" "}
-            <a href="" data-aos="fade-up" data-aos-duration="500">
+            <a href="" data-aos-duration="500">
               <svg
                 width="39"
                 height="38"
@@ -71,7 +71,7 @@ function Footer() {
                 />
               </svg>
             </a>
-            <a href="" data-aos="fade-up" data-aos-duration="600">
+            <a href="" data-aos-duration="600">
               <svg
                 width="39"
                 height="38"
@@ -94,7 +94,7 @@ function Footer() {
                 />
               </svg>
             </a>
-            <a href="" data-aos="fade-up" data-aos-duration="700">
+            <a href="" data-aos-duration="700">
               <svg
                 width="39"
                 height="38"
