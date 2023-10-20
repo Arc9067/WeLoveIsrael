@@ -48,7 +48,7 @@ function Mics() {
                 2%
               </h1>
               <p className="text-center text-white text-2xl font-normal font-GulfsDisplay">
-                BUY/SELL/TAX
+                MAX WALLET
               </p>
             </div>
           </article>
@@ -63,7 +63,7 @@ function Mics() {
                 2%
               </h1>
               <p className="text-center text-white text-2xl font-normal font-GulfsDisplay">
-                BUY/SELL/TAX
+                MAX BUY
               </p>
             </div>
           </article>
